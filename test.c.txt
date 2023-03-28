@@ -1,5 +1,5 @@
-int mian()
+int main()
 {
-  printf("qwert");
+  printf("666");
   return 0;
 }
