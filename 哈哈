@@ -1,0 +1,6 @@
+#define
+int main()
+{
+printf("I love u");
+return 0；
+}
