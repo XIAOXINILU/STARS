@@ -1,0 +1,5 @@
+int mian()
+{
+  printf("qwert");
+  return 0;
+}
