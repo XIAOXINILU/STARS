@@ -37,7 +37,7 @@
 //	short s = 0;
 //	int a = 10;
 //	printf("%d\n", sizeof(a + 5));
-//	printf("%d\n", sizeof(s = a + 5));//a+5还是整型
+//	printf("%d\n", sizeof(s = a + 5));//a+5禄鹿脢脟脮没脨脥
 //	printf("%d\n", sizeof(s=a));
 //
 //
@@ -45,7 +45,7 @@
 //	return 0;
 //}
 
-//   ~   按位取反
+//   ~   掳麓脦禄脠隆路麓
 int main()
 {
 	int a = 0;
